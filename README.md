@@ -7,3 +7,4 @@ Pt2:https://courses.ics.hawaii.edu/ics314f23/morea/meteor-3/experience-meteor-di
 Pt3:https://courses.ics.hawaii.edu/ics314f23/morea/meteor-3/experience-meteor-digits-3.html
 Pt4:https://courses.ics.hawaii.edu/ics314f23/morea/meteor-3/experience-meteor-digits-4.html
 Pt5:https://courses.ics.hawaii.edu/ics314f23/morea/meteor-3/experience-meteor-digits-5.html
+Pt6:https://courses.ics.hawaii.edu/ics314f23/morea/meteor-3/experience-meteor-digits-6.html
